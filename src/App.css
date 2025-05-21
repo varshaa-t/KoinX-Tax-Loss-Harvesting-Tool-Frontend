@@ -9,6 +9,8 @@
     --color-primary-blue: #0052fe;
     --color-dark-gray: #0f172a;
     --color-secondary-blue: #eaf2ff;
+    --color-card-light-blue: #3c9aff;
+    --color-card-dark-blue: #0066fe;
 }
 
 @theme {
